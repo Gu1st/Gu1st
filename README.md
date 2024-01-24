@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi! Welcome to my region.
-I'm Harexs, I'm a self-taught Frontend developer in China.
+I'm Harexs, a self-taught Frontend developer in China.
 
 I like coding, anime, game, and music. 
 
