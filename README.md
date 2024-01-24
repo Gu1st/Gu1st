@@ -13,28 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### <img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" height="25">Hi there!
+### Hi there!
 - I'm Harexs, An ordinary but hardworking person
 - ✨ &nbsp; [Here](https://juejin.cn/user/281906876257511) write at Juejin 
 - ✨ &nbsp; [Here](https://www.gu1st.cn) my blog
  ---
- 
-### 😄 Worked skills
-- ✅ JavaScript / TypeScript ...
-- ✅ Vue.js /  ...
-- ✅ UNI-App / ...
-- ✅ webpack / vite  ...
-- ✅ Node.js / Nuxt.js ...  
-- <p align="left">
-  <code><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25"/></code>
-<!--   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25"/></code> -->
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="25"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="25"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="25"/></code>
-  <code><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nginx/nginx-original.svg" height="25"/></code>
-</p>
 
----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gu1st&layout=compact)](https://github.com/Gu1st)
