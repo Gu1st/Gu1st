@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there!
-- I'm Harexs, An ordinary but hardworking person
-- ✨ &nbsp; [Here](https://juejin.cn/user/281906876257511) write at Juejin 
-- ✨ &nbsp; [Here](https://www.gu1st.cn) my blog
+### Hi! Welcome to my region.
+- I'm Harexs, I'm a self-taught Frontend developer in China.
+- I like coding, anime, game, and music. 
+- ✨ Find more [Here](https://www.gu1st.cn) 
  ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gu1st&layout=compact)](https://github.com/Gu1st)
